@@ -1,2 +1,3 @@
 ailab/
 .env
+__pycache__/
